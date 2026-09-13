@@ -1,4 +1,4 @@
-# hi, I'm Amal 
+# Hi, I'm Amal 
 IT Graduate | Python | SQL | Data Analytics | Software Development 
 Taif, Saudi Arabia 
 # About Me 
